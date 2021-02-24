@@ -54,7 +54,7 @@ public class Login_controller implements Initializable {
 
     }
 
-//Primer commit FRAPO
+//Segundo commit FRAPO
     @FXML
     private void click(ActionEvent event) {
         System.out.println("dsfsdfsdf");
